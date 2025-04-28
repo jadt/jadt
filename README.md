@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jorge Andres Donoso Tardio</h1>
 <h3 align="center">A passionate fullstack developer from Bolivia</h3>
-###
 
 <p align="left">I'm an application software developer. I'm always looking for ways to improve by continually reading and watching courses to enhance my programming skills, such as design patterns, Solis principles, and more.
  </p>
 
-###
+<h2 align="left">Personal Stuffs:</h2>
+
+<p align="left">📚 I'm currently learning more about react-native and react and patter of design and others<br>🎯 Goals: Continue improving programming skills and frameworks
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadt&label=Profile%20views&color=0e75b6&style=flat" alt="jadt" /> </p>
 
 <h3 align="left">Connect with me:</h3>
